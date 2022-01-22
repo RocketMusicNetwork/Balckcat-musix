@@ -10,7 +10,7 @@ from pyrogram.types import Message, InlineKeyboardMarkup, InlineKeyboardButton
 @Client.on_message(command("start") & filters.private & ~filters.edited)
 async def start_(client: Client, message: Message):
     await message.reply_photo(
-        photo=f"https://telegra.ph/file/656ad82dedab4d5607db7.jpg",
+        photo=f"https://telegra.ph/file/5fb191c3cd9bf108a3bfd.png",
         caption=f"""**ʜᴇʟʟᴏ ɪ'ᴍ ᴀᴅᴠᴀɴᴄᴇ ᴍᴜsɪᴄ ʀᴏʙᴏᴛ ᴅᴇᴘʟᴏʏᴇᴅ ᴠᴘs  ɢʀᴏᴏᴏᴛ ᴍᴜsɪᴄ. 
 ┏━━━━━━━━━━━━━━━━━┓
 ┣» ᴏᴘ ᴍᴜꜱɪᴄ ᴘʟᴀʏᴇʀ ʙᴏᴛ. 
@@ -18,11 +18,11 @@ async def start_(client: Client, message: Message):
 ┣» ᴀᴅᴠᴀɴᴄᴇᴅ ꜰᴇᴀᴛᴜʀᴇꜱ.
 ┣» ꜱᴜᴘᴇʀꜰᴀꜱᴛ ꜱᴘᴇᴇᴅ.
 ┗━━━━━━━━━━━━━━━━━┛
-[sɪʟᴇɴᴛ ʙᴏʏ ❤️](https://t.me/https://t.me/Elsa_network)
+[𝐆𝐑𝐎𝐎𝐓 𝐌𝐔𝐒𝐈𝐂 ❤️](https://t.me/https://t.me/Elsa_network)
 
 
 
-𝐈𝐟 𝐘𝐨𝐮 𝐇𝐚𝐯𝐞 𝐀𝐧𝐲 𝐐𝐮𝐞𝐬𝐭𝐢𝐨𝐧𝐬 𝐀𝐧𝐝 𝐇𝐞𝐥𝐩 𝐓𝐡𝐞𝐧 𝐃𝐦 𝐌𝐲 𝐁𝐨𝐬𝐬 = [sɪʟᴇɴᴛ ʙᴏʏ 🐱❤️](https://t.me/Elsa_network)**""",
+𝐈𝐟 𝐘𝐨𝐮 𝐇𝐚𝐯𝐞 𝐀𝐧𝐲 𝐐𝐮𝐞𝐬𝐭𝐢𝐨𝐧𝐬 𝐀𝐧𝐝 𝐇𝐞𝐥𝐩 𝐓𝐡𝐞𝐧 𝐃𝐦 𝐌𝐲 𝐁𝐨𝐬𝐬 = [𝐎𝐖𝐍𝐄𝐑 🌱❤️](https://t.me/mynameisGroot)**""",
     reply_markup=InlineKeyboardMarkup(
             [
                 [
@@ -38,13 +38,13 @@ async def start_(client: Client, message: Message):
 @Client.on_message(command(["repo"]) & filters.group & ~filters.edited)
 async def help(client: Client, message: Message):
     await message.reply_photo(
-        photo=f"https://telegra.ph/file/656ad82dedab4d5607db7.jpg",
+        photo=f"https://telegra.ph/file/5fb191c3cd9bf108a3bfd.png",
         caption=f"""""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "💥 ᴄᴏᴍᴍᴀɴᴅs 💞", url=f"https://telegra.ph/file/656ad82dedab4d5607db7.jpg")
+                        "💥 ᴄᴏᴍᴍᴀɴᴅs 💞", url=f"https://telegra.ph/file/5fb191c3cd9bf108a3bfd.png")
                 ]
             ]
         ),
