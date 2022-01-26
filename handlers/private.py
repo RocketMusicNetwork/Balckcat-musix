@@ -11,7 +11,7 @@ from pyrogram.types import Message, InlineKeyboardMarkup, InlineKeyboardButton
 async def start_(client: Client, message: Message):
     await message.reply_photo(
         photo=f"https://telegra.ph/file/5fb191c3cd9bf108a3bfd.png",
-        caption=f"""**ʜᴇʟʟᴏ ɪ'ᴍ ᴀᴅᴠᴀɴᴄᴇ ᴍᴜsɪᴄ ʀᴏʙᴏᴛ ᴅᴇᴘʟᴏʏᴇᴅ ᴠᴘs  ɢʀᴏᴏᴏᴛ ᴍᴜsɪᴄ. 
+        caption=f"""**𝐇𝐞𝐥𝐥𝐨 𝐆𝐮𝐲𝐬! 𝐢𝐚𝐦 𝐀𝐝𝐯𝐚𝐧𝐜𝐞 𝐌𝐮𝐬𝐢𝐜 𝐑𝐨𝐛𝐨𝐭 𝐃𝐞𝐩𝐥𝐨𝐲𝐞𝐝 𝐕𝐩𝐬 - 𝐆𝐫𝐨𝐨𝐭 𝐌𝐮𝐬𝐢𝐜 𝐍𝐞𝐭𝐰𝐨𝐫𝐤. 
 (𝐉𝐨𝐢𝐧 𝐎𝐮𝐫 𝐆𝐫𝐨𝐮𝐩 ❤️](https://t.me/Elsa_network)
 
 
