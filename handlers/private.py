@@ -12,7 +12,7 @@ async def start_(client: Client, message: Message):
     await message.reply_photo(
         photo=f"https://telegra.ph/file/5fb191c3cd9bf108a3bfd.png",
         caption=f"""**ʜᴇʟʟᴏ ɪ'ᴍ ᴀᴅᴠᴀɴᴄᴇ ᴍᴜsɪᴄ ʀᴏʙᴏᴛ ᴅᴇᴘʟᴏʏᴇᴅ ᴠᴘs  ɢʀᴏᴏᴏᴛ ᴍᴜsɪᴄ. 
-(𝐉𝐨𝐢𝐧 𝐎𝐮𝐫 𝐆𝐫𝐨𝐮𝐩 ❤️](https://t.me/https://t.me/Elsa_network)
+(𝐉𝐨𝐢𝐧 𝐎𝐮𝐫 𝐆𝐫𝐨𝐮𝐩 ❤️](https://t.me/Elsa_network)
 
 
 
